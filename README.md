@@ -6,7 +6,7 @@ In powershell, run TicTacBro.ps1
 
 If you get an error like "Execution of scripts is disabled on this system", you can bypass your execution policy by running:
 
-`Powershell -ExecutionPolicy Bypass -File TicTacBro.ps1
+`Powershell -ExecutionPolicy Bypass -File TicTacBro.ps1`
 
 ## Game Play
 TicTacBro has two modes, "Start a game" and "Connect to existing game".
